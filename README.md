@@ -1,3 +1,6 @@
+![Halo Classic Covers Splash](https://github.com/user-attachments/assets/68188926-b9ee-4b04-99fe-79c946c8c26b)
+
+
 v0.3 
 - Added ODST menu video
 - Added H4 menu video
