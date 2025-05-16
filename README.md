@@ -4,6 +4,8 @@ Experience classic Halo as they were meant to be played with the visual upgrades
 
 Sabre Launcher is a custom built launcher, developed in UE5 that combines all the classic Halo menus into one universal launcher. 
 
+---------------------------------------------------------------------------------
+
 How to install:
 Download Sabre Launcher.zip > extract anywhere
 
