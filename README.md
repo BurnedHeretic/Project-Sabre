@@ -9,8 +9,11 @@ Download Sabre Launcher.zip > extract anywhere
 
 Download Movies.zip > extract to: Sabre Launcher\Windows\HaloLauncher\Content
 
+Run HaloLauncher.exe
+
 Enjoy!
 
+--------------------------------------------------------------------------------
 
 Please be aware this is heavily WIP and may contain bugs or unfinished assets.
 
