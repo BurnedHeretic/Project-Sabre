@@ -1,6 +1,6 @@
 ![Halo Classic Covers Splash](https://github.com/user-attachments/assets/68188926-b9ee-4b04-99fe-79c946c8c26b)
 
-Experience classic Halo as they were meant to be played through Halo The Master Chief Collection. 
+Experience classic Halo as they were meant to be played with the visual upgrades from Halo The Master Chief Collection. 
 
 Sabre Launcher is a custom built launcher, developed in UE5 that combines all the classic Halo menus into one universal launcher. 
 
