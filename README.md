@@ -1,34 +1,73 @@
 ![Halo Classic Covers Splash](https://github.com/user-attachments/assets/68188926-b9ee-4b04-99fe-79c946c8c26b)
 
-Experience classic Halo as they were meant to be played with the visual upgrades from Halo The Master Chief Collection. 
+# Project Sabre – Halo Reach Menu Launcher (UE5 + MCC Integration)
 
-Sabre Launcher is a custom built launcher, developed in UE5 that combines all the classic Halo menus into one universal launcher. 
+**Project Sabre** is a custom-built menu launcher inspired by the original **Halo: Reach** title screen, recreated in **Unreal Engine 5**. Designed to replicate the nostalgic look and feel of the classic UI, this project offers a modern remake of the Halo Reach menu system, fully compatible with **Halo: The Master Chief Collection (MCC)**.
 
----------------------------------------------------------------------------------
+---
 
-Features:
+## 🎮 Features
 
-- Upscaled classic menu backgrounds
-- Custom assets to match classic menu (this is to avoid usage of as many source assets as possible)
-- Dynamic music playlists to match the original releases, featuring MP beta music for the Halo Reach menu
-- Launches you into MCC Campaign for the corrosponding game or launches you into the MP menu in MCC
+- ⚙️ Built entirely in **Unreal Engine 5**
+- 🎵 Dynamic menu music system with randomised tracks
+- 🌀 Seamless transitions between menus
+- 🛠 Supports launching MCC from the classic Halo menus
+- 🧱 Modular UI architecture for easy expansion
+- 💻 Designed with future integrations in mind
 
-  
----------------------------------------------------------------------------------
+---
 
-How to install:
-Download Sabre Launcher.zip > extract anywhere
+## 📦 Tech Stack
 
-Download Movies.zip > extract to: Sabre Launcher\Windows\HaloLauncher\Content
+- **Engine**: Unreal Engine 5 (UMG/Blueprints + optional C++)
+- **Platform**: Windows (MCC integration tested on Steam)
+- **Language**: Blueprint-first; C++ extensible
+- **Status**: In development
 
-Run HaloLauncher.exe
+---
 
-Enjoy!
+## 🚀 Getting Started
 
---------------------------------------------------------------------------------
+> ⚠️ Note: This is a standalone launcher, MCC must be installed separately.
+
+1. Download Sabre Launcher.zip > extract anywhere
+2. Download Movies.zip > extract to: Sabre Launcher\Windows\HaloLauncher\Content
+3. Run HaloLauncher.exe
+4. Enjoy!
+
+---
+
+## 🔮 Roadmap
+
+- [x] Animated menus for Halo Reach, CE and 2
+- [x] 4K upscaled and enhanced menu backgrounds
+- [x] Music randomiser + playback system
+- [x] Full keyboard/gamepad navigation
+- [ ] Steam friend presence display (e.g. who's playing MCC)
+- [ ] Customisable theme settings
+- [ ] Add more functionality / complete menus for Halo Reach, CE & 2
+- [ ] Develop Halo 3, ODST and 4 Menus and add MCC launch support
+
+---
+
+## 👽 Lore-Inspired Branding
+
+> “Project Sabre” takes its name from the **Sabre spaceplane** in *Halo: Reach*, symbolising launch, legacy, and forward motion — just like this menu system.
+
+---
+
+## 💬 Contact & Contribution
+
+Feel free to fork, submit issues, or suggest enhancements.
+For questions or collaborations, contact **BurnedHeretic** here on Github, @ YouTube or @ X.
+
+---
+
+## 🏷 Keywords
+
+`Halo Reach` · `Halo Menu Launcher` · `MCC UI Mod` · `Unreal Engine 5` · `Halo UE5 Project` · `Halo Modding` · `Classic Halo UI`
+
 
 Please be aware this is heavily WIP and may contain bugs or unfinished assets.
-
-(Due to direct level launching via Command Line being no longer supported in MCC, it is not possible to directly launch from Sabre into a specific games campaign or MP. I have thus developed a workaround using scripts and UE5s console command blueprints and attempted to make this as seamless as possible.)
 
 
