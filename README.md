@@ -46,7 +46,7 @@
 - [ ] Steam friend presence display (e.g. who's playing MCC)
 - [ ] Customisable theme settings
 - [ ] Add more functionality / complete menus for Halo Reach, CE & 2
-- [ ] Develop Halo 3, ODST and 4 Menus and add MCC launch support
+- [ ] Develop Halo 3, ODST and 4 Menus
 
 ---
 
