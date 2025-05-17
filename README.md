@@ -6,6 +6,16 @@ Sabre Launcher is a custom built launcher, developed in UE5 that combines all th
 
 ---------------------------------------------------------------------------------
 
+Features:
+
+- Upscaled classic menu backgrounds
+- Custom assets to match classic menu (this is to avoid usage of as many source assets as possible)
+- Dynamic music playlists to match the original releases, featuring MP beta music for the Halo Reach menu
+- Launches you into MCC Campaign for the corrosponding game or launches you into the MP menu in MCC
+
+  
+---------------------------------------------------------------------------------
+
 How to install:
 Download Sabre Launcher.zip > extract anywhere
 
