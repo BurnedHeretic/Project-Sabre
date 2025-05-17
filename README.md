@@ -2,7 +2,7 @@
 
 # Project Sabre – Halo Reach Menu Launcher (UE5 + MCC Integration)
 
-**Project Sabre** is a custom-built menu launcher inspired by the original **Halo: Reach** title screen, recreated in **Unreal Engine 5**. Designed to replicate the nostalgic look and feel of the classic UI, this project offers a modern remake of the Halo Reach menu system, fully compatible with **Halo: The Master Chief Collection (MCC)**.
+**Project Sabre** is a custom-built menu launcher, recreated in **Unreal Engine 5**. Designed to bring back the classic Halo UI, this project offers modern reconstructions of the classic Halo menus, fully compatible with **Halo: The Master Chief Collection (MCC)**.
 
 ---
 
