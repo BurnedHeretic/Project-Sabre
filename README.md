@@ -1,6 +1,6 @@
 ![Halo Classic Covers Splash](https://github.com/user-attachments/assets/68188926-b9ee-4b04-99fe-79c946c8c26b)
 
-# Project Sabre – Halo Reach Menu Launcher (UE5 + MCC Integration)
+# Project Sabre – Halo Classic Menu Launcher (UE5 + MCC Integration)
 
 **Project Sabre** is a custom-built menu launcher, recreated in **Unreal Engine 5**. Designed to bring back the classic Halo UI, this project offers modern reconstructions of the classic Halo menus, fully compatible with **Halo: The Master Chief Collection (MCC)**.
 
